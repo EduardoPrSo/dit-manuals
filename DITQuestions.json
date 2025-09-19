@@ -1,0 +1,40 @@
+{
+    "CFI": [
+        {
+
+        }
+    ],
+    "Abordagem": [
+        {
+
+        }
+    ],
+    "Acompanhamento": [
+        {
+            "id": 1,
+            "text": "Qual é a primeira ação do policial ao receber uma notificação de QRU?",
+            "options": ["Iniciar imediatamente o acompanhamento", "Solicitar apoio pelo rádio", "Ir ao local e tentar abordagem inicial", "Acionar todas as unidades disponíveis"],
+            "correct": 3
+        }
+    ],
+    "Modulação": [
+        {
+
+        }
+    ],
+    "Postura": [
+        {
+
+        }
+    ],
+    "Negociação": [
+        {
+
+        }
+    ],
+    "APH": [
+        {
+
+        }
+    ]
+}
