@@ -1,23 +1,9 @@
 {
-    "CFI": [
-        1
-    ],
-    "Abordagem": [
-        1
-    ],
-    "Acompanhamento": [
-        1
-    ],
-    "Modulação": [
-        1
-    ],
-    "Postura": [
-
-    ],
-    "Negociação": [
-
-    ],
-    "APH": [
-
-    ]
+    "CFI": [1, 6, 37],
+    "Abordagem": [1],
+    "Acompanhamento": [1],
+    "Modulação": [1],
+    "Postura": [],
+    "Negociação": [],
+    "APH": []
 }
