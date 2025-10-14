@@ -16,11 +16,11 @@
             "text": "Quem pode realizar o APH conforme o manual?",
             "options": [
                 "Somente paramédicos",
-                "Oficiais com curso e treinamento autorizados",
                 "Apenas o comandante",
-                "Qualquer oficial"
+                "Qualquer oficial",
+                "Oficiais com curso e treinamento autorizados"
             ],
-            "correct": 1
+            "correct": 3
         },
         {
             "id": 3,
