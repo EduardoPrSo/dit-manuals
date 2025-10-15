@@ -532,7 +532,7 @@
                 "4 unidades",
                 "Não há limite"
             ],
-            "correct": 0
+            "correct": 1
         },
         {
             "id": 4,
@@ -543,7 +543,7 @@
                 "3 motos",
                 "Nenhuma"
             ],
-            "correct": 1
+            "correct": 2
         },
         {
             "id": 5,
@@ -609,7 +609,7 @@
                 "Empurrão",
                 "Chave de braço"
             ],
-            "correct": 0
+            "correct": 1
         },
         {
             "id": 11,
@@ -627,7 +627,7 @@
             "text": "O que pode ocasionar um QTA de uma perseguição?",
             "options": [
                 "Queda de internet",
-                "Falta de gasolina",
+                "Ir em outra QRU mais interessante",
                 "Excesso de viaturas",
                 "Troca de viatura"
             ],
@@ -651,7 +651,7 @@
                 "Troca de viatura policial",
                 "Quando veículo externo retira suspeitos do acompanhamento",
                 "Quando oficial ajuda outro policial",
-                "Quando há queda de moto"
+                "Quando o veículo fura o pneu"
             ],
             "correct": 1
         },
@@ -659,12 +659,12 @@
             "id": 15,
             "text": "No caso de 2º resgate, além de todas as unidades liberadas, o que é permitido?",
             "options": [
-                "Usar armas letais",
-                "Furamento de 1 pneu",
+                "Usar armas para matar o bandido",
+                "Furar o pneu do veículo",
                 "Desistência da perseguição",
                 "Aumento do limite de viaturas"
             ],
-            "correct": 0
+            "correct": 1
         },
         {
             "id": 16,
