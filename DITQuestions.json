@@ -40,9 +40,9 @@
                 "Durante o confronto",
                 "Após os meliantes estarem algemados e dentro das celas",
                 "Apenas após encaminhar os meliantes para o hospital",
-                "Assim que chegarem no local"
+                "Nos oficiais, assim que finalizar a ação e nos meliantes após estarem dentro das celas"
             ],
-            "correct": 1
+            "correct": 3
         },
         {
             "id": 5,
@@ -50,7 +50,7 @@
             "options": [
                 "Sim, se for seguro",
                 "Apenas se o oficial for o único ferido",
-                "Não, o APH nunca deve ser feito em área vermelha",
+                "Não, o APH nunca deve ser feito em área vermelha, a não ser que seja dado o QTA",
                 "Sim, com autorização do hospital"
             ],
             "correct": 2
@@ -68,18 +68,18 @@
         },
         {
             "id": 7,
-            "text": "Quando um civil é encontrado desacordado, qual é a primeira atitude do oficial com APH?",
+            "text": "Quando um cidadão é encontrado desacordado, qual é a primeira atitude do oficial com APH?",
             "options": [
                 "Realizar um chamado ao hospital",
                 "Reanimar imediatamente",
                 "Ignorar se houver outros civis",
-                "Levar o civil para casa"
+                "Levar o cidadão para casa"
             ],
             "correct": 0
         },
         {
             "id": 8,
-            "text": "Mesmo que um civil diga que já chamou o hospital, o oficial deve:",
+            "text": "Mesmo que um cidadão diga que já chamou o hospital, o oficial deve:",
             "options": [
                 "Confiar e seguir patrulha",
                 "Fazer um novo chamado",
@@ -108,7 +108,7 @@
                 "Um",
                 "Quantos forem necessários"
             ],
-            "correct": 0
+            "correct": 2
         },
         {
             "id": 11,
@@ -117,13 +117,13 @@
                 "Agir rapidamente e em silêncio",
                 "Apenas observar",
                 "Reanimar sem diálogo",
-                "Tratar o civil da melhor forma possível e verbalizar cada ação"
+                "Tratar o cidadão da melhor forma possível e verbalizar cada ação"
             ],
             "correct": 3
         },
         {
             "id": 12,
-            "text": "Após reanimar um civil, o oficial deve:",
+            "text": "Após reanimar um cidadão, o oficial deve:",
             "options": [
                 "Liberá-lo sem instruções",
                 "Pedir que vá diretamente ao hospital",
@@ -134,12 +134,12 @@
         },
         {
             "id": 13,
-            "text": "Se um oficial desmaiar um civil acidentalmente em uma ocorrência, o que deve fazer?",
+            "text": "Se um oficial desmaiar um cidadão acidentalmente em uma ocorrência, o que deve fazer?",
             "options": [
                 "Continuar a ocorrência",
                 "Solicitar apoio de alguém com APH",
-                "Ignorar o civil",
-                "Esperar o civil acordar"
+                "Ignorar o cidadão",
+                "Esperar o cidadão acordar"
             ],
             "correct": 1
         },
