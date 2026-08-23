@@ -561,7 +561,7 @@
             "text": "Em acompanhamentos com veículos de 4 rodas, qual é a prioridade?",
             "options": [
                 "GTM",
-                "GAR",
+                "PRF",
                 "COTAR",
                 "BOPE"
             ],
@@ -704,7 +704,7 @@
             "text": "Quem pode utilizar a spike?",
             "options": [
                 "Todas as unidades",
-                "Apenas GAR e GTM",
+                "Apenas PRF e GTM",
                 "Apenas BOPE",
                 "Qualquer viatura secundária"
             ],
