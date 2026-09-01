@@ -319,7 +319,7 @@
                 "Revistas em mulheres são proibidas",
                 "Qualquer policial pode revistar se houver pressa"
             ],
-            "correct": 1
+            "correct": 0
         },
         {
             "id": 15,
@@ -330,7 +330,7 @@
                 "Delegado",
                 "Oficial que efetuou a prisão"
             ],
-            "correct": 3
+            "correct": 1
         }
     ],
     "Modulação": [
